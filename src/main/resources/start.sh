@@ -1,0 +1,1 @@
+hadoop jar demo-1.0-SNAPSHOT.jar DemoTask
